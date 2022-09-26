@@ -1,0 +1,4 @@
+D:\vscode\HealthCardProject\HealthCardProject\bin\HealthCardProject.dll
+D:\vscode\HealthCardProject\HealthCardProject\bin\HealthCardProject.pdb
+D:\vscode\HealthCardProject\HealthCardProject\obj\Debug\HealthCardProject.dll
+D:\vscode\HealthCardProject\HealthCardProject\obj\Debug\HealthCardProject.pdb
